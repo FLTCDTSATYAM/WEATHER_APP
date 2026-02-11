@@ -1,0 +1,8 @@
+#button{
+    padding: 7px;
+    background-image: linear-gradient(to right, #6bf738, #2bf3fa);
+    width: 100px;
+    margin: 15px;
+    font-weight: 600;
+    color: black;
+}
